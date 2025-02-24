@@ -3,4 +3,4 @@ Here you will get signals based on price action and we are providing Forex and C
 
 To run this use this command:
 
-streamlit run Ind.py
+streamlit run app.py
